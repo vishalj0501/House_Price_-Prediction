@@ -1,2 +1,9 @@
-# House_Price_-Prediction
-# House_Price_-Prediction
+# House Price Prediction using XGBoost Regression
+
+Packages used:
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Sklearn
+* Xgboost
